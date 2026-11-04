@@ -1,3 +1,10 @@
+Vibe coding projects go through core iterative loop.
+	Vision
+	Prompt
+	Generate
+	Test Refine
+	Commit
+
 Start your project with a concrete plan.
 	
 Vibe Project Management (AI is your partner; brainstorm together)
