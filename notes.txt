@@ -1,0 +1,36 @@
+Start your project with a concrete plan.
+	Vibe Project Management (AI is your partner; brainstorm together)
+	-First brain storm your idea and explain it to AI to clarify the idea in your mind. 
+	-Create a Project Brief (short 1 page summary) that includes what you are building and why
+		1. Goals: Purpose of project
+		2. Target Audience: who is this for?
+		3. Core Functionality: What should it do?
+		4. UI/UX: How should it work?
+
+Example Blueprint (dialogue with AI)
+
+	Input: 1 Act as a project strategist. I'm a web developer planning my personal portfolio website. What are the top 3 objectives this site should achieve? // this is your goals
+	Output: 
+		1. Effectively showcase your best projects.
+		2. Clearly communicate your skills and personal brand. 
+		3. Make it easy for potential clients or recruiters to contact you.
+
+	Input 2: Based on those gaols, who is the primary target audience for this website?
+	Output: Your primary audience is tech recruiters, hiring managers at companies your admire, and potential freelance clients.
+
+	Input 3: Given the goals and audience, list the essential sections that should be on this one-page portfolio website. // core functionality
+	Output: 
+		1. A Hero section with your name and a compelling headline.
+		2. An "About Me" section to tell your story.
+		3. A "Projects" grid to showcase your work.
+		4. A "Skills" section listing your technologies.
+		5. A "Contact" form. 
+
+	Input 4: Now act as a UI/UX designer. Suggest a professional and modern color palette for this portfolio. I prefer a dark theme. Please provide hex codes for a primary, secondary, and accent color. 
+	Output: Here is a color palette of a dark charcoal background, off-shite text, and a vibrant electric blue for accents. 
+	
+
+
+
+
+
