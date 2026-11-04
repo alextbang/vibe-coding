@@ -8,7 +8,7 @@ The framework for great prompts: R-T-C-C-F
 4. Constraints: What not to do
 5. Format: Controls shape of output
 
-Example: You are an expert UI/UX designer. Write the HTML and CSS code for a primary call to action button. Here is the HTML for my header: <paste code here>. I am using the Tailwind CSS framework. Do not use any external JavaScript libraries--only use vanilla JavaSCript. Provide only the CSS in a single, well-commented code block. 
+Example 1: You are an expert UI/UX designer. Write the HTML and CSS code for a primary call to action button. Here is the HTML for my header: <paste code here>. I am using the Tailwind CSS framework. Do not use any external JavaScript libraries--only use vanilla JavaSCript. Provide only the CSS in a single, well-commented code block. 
 
 
-
+Example 2: Act as a front-end developer specializing in responsive design with Tailwind CSS and vanilla Javascript. I need you to generate a complete blog website. THe page should have a header, a main artcile section, and a footer. The article needs a titile, author info, a featured image, placeholder content, and a "Share" button. You must build this as a single HTML fine and include Tailwind CSS CDN script. ALl styling must be done wtih Tailwind utility classes. Also, include an embedded vanilla Javascript that logs "Post Shared" in the console when the "Share" button is clicked. Please provide the entire HTML file in one code block. 
