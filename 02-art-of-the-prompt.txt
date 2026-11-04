@@ -12,3 +12,22 @@ Example 1: You are an expert UI/UX designer. Write the HTML and CSS code for a p
 
 
 Example 2: Act as a front-end developer specializing in responsive design with Tailwind CSS and vanilla Javascript. I need you to generate a complete blog website. THe page should have a header, a main artcile section, and a footer. The article needs a titile, author info, a featured image, placeholder content, and a "Share" button. You must build this as a single HTML fine and include Tailwind CSS CDN script. ALl styling must be done wtih Tailwind utility classes. Also, include an embedded vanilla Javascript that logs "Post Shared" in the console when the "Share" button is clicked. Please provide the entire HTML file in one code block. 
+
+// How to beat AI-amnesia (context windows loss)
+
+AI has a context window where it can only see or remember a certain amount of its recent conversation and older context is lost. You can work arond this limitation the following ways:
+
+1. Context stuffing - act of reproviding the information it needs to complete its task. 
+	E.g., Input: Here is the CSS for my button component: [...] Please write the CSS for an h1 element that uses the same primary blue color, which is #3498db.
+
+2. For a large project, you need a more structured approach. Provide critical information up front to use as a guide/reference.
+	E.g., As your first prompt, you can upload a project style guide that outlines all the requirements for HTML/CSS, composition, background, typography, styling effects, and etc. 
+3. New feature/topic, New chat. 
+	As chat history gets really long, AI can get confused about what it remembers. So when you start building a new feature, start a new chat and provide AI the knowledge base it needs and can reference so it can keep its context window necessary just for the current feature/topic you are working on. 
+
+
+
+
+
+
+
