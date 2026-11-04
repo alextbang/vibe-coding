@@ -1,7 +1,8 @@
 Start your project with a concrete plan.
-	Vibe Project Management (AI is your partner; brainstorm together)
+	
+Vibe Project Management (AI is your partner; brainstorm together)
 	-First brain storm your idea and explain it to AI to clarify the idea in your mind. 
-	-Create a Project Brief (short 1 page summary) that includes what you are building and why
+	-Chat with your AI partner to create a Project Brief (short 1 page summary) that includes what you are building and why
 		1. Goals: Purpose of project
 		2. Target Audience: who is this for?
 		3. Core Functionality: What should it do?
@@ -28,8 +29,11 @@ Example Blueprint (dialogue with AI)
 
 	Input 4: Now act as a UI/UX designer. Suggest a professional and modern color palette for this portfolio. I prefer a dark theme. Please provide hex codes for a primary, secondary, and accent color. 
 	Output: Here is a color palette of a dark charcoal background, off-shite text, and a vibrant electric blue for accents. 
-	
 
+	Input 5: Describe a clean, modern layout for the hero section. Where should my namem my titile, and a call-to-action button be placed?
+	Output: You should consider a layout with a boldm centered name, a smaller subtitle beneath it, and a prominent button below that. 
+
+	// This is a blue print of your project. 
 
 
 

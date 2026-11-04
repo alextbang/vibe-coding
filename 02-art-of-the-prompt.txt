@@ -1,0 +1,14 @@
+Getting great output from AI requires providing great input. 
+
+The framework for great prompts: R-T-C-C-F
+
+1. Role: Who AI should be
+2. Task: A clear, specific instruction
+3. Context: Provide relevant information
+4. Constraints: What not to do
+5. Format: Controls shape of output
+
+Example: You are an expert UI/UX designer. Write the HTML and CSS code for a primary call to action button. Here is the HTML for my header: <paste code here>. I am using the Tailwind CSS framework. Do not use any external JavaScript libraries--only use vanilla JavaSCript. Provide only the CSS in a single, well-commented code block. 
+
+
+
