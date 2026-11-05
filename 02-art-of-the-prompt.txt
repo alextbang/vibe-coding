@@ -22,6 +22,7 @@ AI has a context window where it can only see or remember a certain amount of it
 
 2. For a large project, you need a more structured approach. Provide critical information up front to use as a guide/reference.
 	E.g., As your first prompt, you can upload a project style guide that outlines all the requirements for HTML/CSS, composition, background, typography, styling effects, and etc. 
+	
 3. New feature/topic, New chat. 
 	As chat history gets really long, AI can get confused about what it remembers. So when you start building a new feature, start a new chat and provide AI the knowledge base it needs and can reference so it can keep its context window necessary just for the current feature/topic you are working on. 
 
