@@ -1,0 +1,8 @@
+// Test and Refine
+
+When AI give you output/code, the first thing you should do is to test it immediately--this must become an unbreakable habit. 
+
+You have three paths after the initial test.
+1. The happy path; code works exactly as expected. Commit your changes to make your save point. You should still perform a manual code audit to quickly review the AI generated code/output. 
+2. The Refine loop; he code isn't broken and is functionally working, but the aesthetics or layout ins't quite right. Go back to AI and provide notes for the AI to correct it. 
+3. The Debug loop; the feature doesn't work and you see error messages in your dev console. You provide the exact error message to guide the AI to fix the code. Provide a clear description of what you expected to happen versus what actually happened. 
