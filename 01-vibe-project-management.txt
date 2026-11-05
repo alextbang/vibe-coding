@@ -1,9 +1,9 @@
 Vibe coding projects go through core iterative loop.
-	Vision
-	Prompt
-	Generate
-	Test Refine
-	Commit
+	1. Vision
+	2. Prompt
+	3. Generate
+	4. Test Refine
+	5. Commit
 
 Start your project with a concrete plan.
 	
